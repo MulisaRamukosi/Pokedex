@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemon">Pokemon</string>
+    <string name="Abilities">Abilities</string>
+    <string name="height">Height</string>
+    <string name="desc_height">The height of the Pokémon in decimetres.</string>
+    <string name="stat">Stat</string>
+    <string name="desc_stat">List of base stat values for this Pokémon.</string>
+    <string name="sound">Sound</string>
+    <string name="desc_sound">Sound used to depict this Pokémon in the game.</string>
+    <string name="play_sound">Play sound</string>
+</resources>

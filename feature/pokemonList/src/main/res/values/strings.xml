@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemons">Pokemons</string>
+    <string name="no_pokemons_available">There are no pokemons currently available.</string>
+    <string name="request_pokemons">Request pokemons</string>
+    <string name="search_pokemon">Search pokemon by name</string>
+</resources>
